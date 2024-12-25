@@ -1,3 +1,4 @@
+#The problem is given on excel, here I manually inputted the "traffic" between each node based on the color, the travel time for each color is given right below. 
 g = 1.5   #green
 y = 2.4   #yellow
 r = 6     #red
